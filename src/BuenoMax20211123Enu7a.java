@@ -1,5 +1,5 @@
 
-public class BuenoMax20211123Enu7b {
+public class BuenoMax20211123Enu7a {
     public static void main(String[] args) throws Exception {
         char majusculas=65;     //Aqui definim el caracter de majuscula a 65, perque segons el codi ASCII la A majuscula esta a la posicio 65.
 
