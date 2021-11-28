@@ -24,11 +24,14 @@
 | \||**Sobre**&nbsp;&nbsp;&nbsp;&nbsp;|0.25|0.50|\||0.25|0.50|\||0.25|0.25|\||**2.00**&nbsp;&nbsp;&nbsp;&nbsp;**\|**|
 
 ### Comentari sonre la **pregunta 4**.
-> El que comentes no és l'error que apareix, l'error que apareix és:
-> ```Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 7 out of bounds for length 7
-        at Examen_20211123_En_Teo_01_2.main(Examen_20211123_En_Teo_01_2.java:14)```.
+> El que comentes no és l'**error que apareix**, l'error que apareix és:<br>
+> &nbsp;&nbsp;&nbsp;```Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 7 out of bounds for length 7```<br>
+> No entenc que vols dir que ***"el ```int i=0``` hauria d'estar dins del parèntesi."***?.<br>
+> No veig que posant el **```int i=0```**, dins de cap parèntesi solucionèssim l'error.<br>
+> 
 
-
+<br>
+<br>
 
 >|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Nota teoria**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 >|:-:|
