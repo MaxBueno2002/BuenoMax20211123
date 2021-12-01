@@ -23,7 +23,7 @@
 | \||**Puntuació**&nbsp;&nbsp;&nbsp;&nbsp;|**0.25**|**0.50**|\||**0.25**|**0.00**|\||**```0.25```**|**```0.25```**|\||***```1.50```* *(1)*** **\|**|
 | \||**Sobre**&nbsp;&nbsp;&nbsp;&nbsp;|0.25|0.50|\||0.25|0.50|\||0.25|0.25|\||**2.00**&nbsp;&nbsp;&nbsp;&nbsp;**\|**|
 
-### Comentari sonre la **pregunta 4**.
+### Comentari sobre la **pregunta 4**.
 > El que comentes no és l'**error que apareix**, l'error que apareix és:<br>
 > &nbsp;&nbsp;&nbsp;```Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 7 out of bounds for length 7```<br>
 > No entenc que vols dir que ***"el ```int i=0``` hauria d'estar dins del parèntesi."***?.<br>
